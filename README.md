@@ -9,4 +9,7 @@ https://gitee.com/creat151/ffmpeg-android.git
 
 https://github.com/githubhaohao/LearnFFmpeg.git
 
+
+CainCamera:
+
 https://github.com/CainKernel/CainCamera.git
